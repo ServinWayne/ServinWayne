@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ServinWayne
 - 👀 I’m interested in all things Data Science and Machine Learning
-- 🌱 I’m currently learning Supervised Machine Learning
+- 🌱 I’m currently learning Genetic Algorithms!
 - 💞️ I’m looking to collaborate on any projects or internships!
 - 📫 How to reach me: vartanianservin@gmail.com
 
